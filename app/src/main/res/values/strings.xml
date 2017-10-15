@@ -1,0 +1,13 @@
+
+<resources>
+    <string name="app_name">App</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string-array name="Sensor_names">
+        <item>AltraSonic Top</item>
+        <item>AltraSonic Bottom</item>
+    </string-array>
+
+
+    <string name="action_settings">Settings</string>
+
+</resources>
